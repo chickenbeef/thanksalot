@@ -1,0 +1,7 @@
+first::Michael
+last::Anderson
+email::michael.anderson+
+domain::gmail.com
+password::MyPassword
+phone::0821234567
+General_letter::True

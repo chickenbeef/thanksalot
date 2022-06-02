@@ -1,0 +1,2 @@
+selenium==2.2.7
+fake-useragent==0.1.11
