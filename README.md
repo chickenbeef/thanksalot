@@ -1,5 +1,5 @@
 # thanksalot
-Takealot.com registration bot.
+Takealot.com registration bot to yield voucher codes. This bot will enable you to create a code farm on Takealot.com
 
 In info.txt, change information to your own. For the email I suggest you either use a catchall email domain or create a free gmail address and use the plus sign trick (https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html)
 
